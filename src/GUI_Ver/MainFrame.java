@@ -64,7 +64,7 @@ class MainFrame {
         frame.setVisible(true);
     }
 
-    private void restart_exit_panel() { //TODO допилить
+    private void restart_exit_panel() {
         restartExitPanel = new JPanel();
         JLabel gameOverStatusLabel = new JLabel(restartLabelText);
         JButton restartButton = new JButton("Restart");
