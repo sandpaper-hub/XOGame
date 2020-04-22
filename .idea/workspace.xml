@@ -194,6 +194,24 @@
     <MESSAGE value="Add artifact file" />
     <option name="LAST_COMMIT_MESSAGE" value="Add artifact file" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1334" height="121" key="GridCell.Tab.0.bottom" timestamp="1587545939868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1334" height="121" key="GridCell.Tab.0.bottom/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1587545939868" />
+    <state width="1334" height="121" key="GridCell.Tab.0.center" timestamp="1587545939868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1334" height="121" key="GridCell.Tab.0.center/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1587545939868" />
+    <state width="1334" height="121" key="GridCell.Tab.0.left" timestamp="1587545939868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1334" height="121" key="GridCell.Tab.0.left/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1587545939868" />
+    <state width="1334" height="121" key="GridCell.Tab.0.right" timestamp="1587545939868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1334" height="121" key="GridCell.Tab.0.right/-1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1587545939868" />
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
