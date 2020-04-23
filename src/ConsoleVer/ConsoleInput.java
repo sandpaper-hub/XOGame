@@ -28,4 +28,8 @@ class ConsoleInput {
     void offerToPlay(User user) {
         System.out.println("Let's play " + user.getName());
     }
+
+    void someVoid() {
+
+    }
 }
