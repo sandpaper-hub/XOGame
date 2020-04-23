@@ -29,7 +29,7 @@ class ConsoleInput {
         System.out.println("Let's play " + user.getName());
     }
 
-    void someVoid() {
+    void newFeature() {
 
     }
 }
